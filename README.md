@@ -4,24 +4,24 @@
 
 # Как запустить
 
-Скрипт требует для своей работы установленного интерпретатора Пайтон версии 3.5
+Скрипт требует для своей работы установленного интерпретатора пайтон версии 3.5
 
 Запуск:
 
-~~~
+```
 python duplicates.py [путь к папке]
-~~~
+```
 
 Пример выполнения программы
 
-~~~
+```
 File "bars.py" found in following directories:
     D:\Разработка\devman\bars.py
     D:\Разработка\devman\3_bars-master\bars.py
 File "json.txt" found in following directories:
     D:\Разработка\devman\json.txt
     D:\Разработка\devman\11_duplicates-master\json.txt
-~~~
+```
 
 
 Запуск на других ОС запуск происходит аналогично.
